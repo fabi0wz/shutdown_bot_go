@@ -31,3 +31,22 @@ Ideal for remote control of a gaming PC or any unattended system running Windows
 
 2. Set the .env properties (Bot Token, and allowed user id)
 3. go run main.go (you'll probably have to run as admin for some commands, for example window focus)
+
+##💡 Future Ideas
+This section will be updated with upcoming features and experiments that I plan to build on top of the bot:
+
+🎮 Simulate key presses or mouse movements (e.g. auto-reconnect in games)
+
+📸 Capture and send screenshots on request
+
+🔊 Control volume or media playback remotely
+
+🗂️ File access: List, send, or delete specific files via Telegram
+
+🧠 Basic automation scripting via chat
+
+🌐 Wake-on-LAN support or remote start from mobile
+
+🪄 Custom game macros triggered by Telegram commands
+
+Feel free to fork and suggest your own features via pull requests or issues!
