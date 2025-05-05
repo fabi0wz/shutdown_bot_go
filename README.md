@@ -30,5 +30,4 @@ Ideal for remote control of a gaming PC or any unattended system running Windows
    cd go-telegram-pc-controller
 
 2. Set the .env properties (Bot Token, and allowed user id)
-3. 
 3. go run main.go (you'll probably have to run as admin for some commands, for example window focus)
