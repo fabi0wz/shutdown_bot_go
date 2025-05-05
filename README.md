@@ -32,7 +32,7 @@ Ideal for remote control of a gaming PC or any unattended system running Windows
 2. Set the .env properties (Bot Token, and allowed user id)
 3. go run main.go (you'll probably have to run as admin for some commands, for example window focus)
 
-##💡 Future Ideas
+## 💡 Future Ideas
 This section will be updated with upcoming features and experiments that I plan to build on top of the bot:
 
 🎮 Simulate key presses or mouse movements (e.g. auto-reconnect in games)
